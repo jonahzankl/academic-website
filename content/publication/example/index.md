@@ -1,19 +1,14 @@
 ---
-title: "An example conference paper"
+title: "Shared Identity, Says Who? How Diverse Organizations Interact in Entrepreneurial Ecosystems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Matthew Grimes
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+date: "2019-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,14 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Academy of Management Proceedings*
+publication_short:
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Entrepreneurial ecosystems are comprised of a diverse and interacting set of organizations which aim to support and develop new ventures and their surrounding regions. Although prior research has celebrated the diversity of these support organizations as a necessary enabler of entrepreneurial capacity in a region, such diversity can at times introduce liabilities given different motives and interests. In this study, we explore how different organizations orient toward such diversity, thereby enabling or constraining the capacity for collaboration across ostensible divisions. Through an inductive case analysis of 15 organizations, we surface an inductive model of how leaders’ perceptions of a regional ecosystem identity combine with their organizations’ identity orientation to influence their interactions across the ecosystem. Based on this model, we propose a typology of organizational sponsorship, which characterizes organizations as either builders, partners, participants, or bridgers. This model and typology extends our understanding of the differences between organizational sponsors within entrepreneurial ecosystems, while bridging the study of organizational identity, categories and ecosystems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary:
 tags: []
 
 # Display this page in the Featured widget?
