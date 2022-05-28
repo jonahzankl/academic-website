@@ -19,4 +19,4 @@ subtitle:
 
 ---
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTRibC9BtIOzVenAueKuF8XIUOPmRe5VeOlerfOeuLieyGAACcImmIAlyZ-M_47_Pt0ickQa1voI39y/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTRibC9BtIOzVenAueKuF8XIUOPmRe5VeOlerfOeuLieyGAACcImmIAlyZ-M_47_Pt0ickQa1voI39y/pub?embedded=true" width="100%" height="300" style="border:none;></iframe>
