@@ -34,9 +34,6 @@ education:
   - course: BSc in Applied Mathematics
     institution: University of Calgary
     year: 2018
- - course: BA in Economics (Honours) 
-    institution: University of Calgary
-    year: 2018
     
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
