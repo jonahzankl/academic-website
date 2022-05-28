@@ -2,6 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+active = false  # Activate this widget? true/false
 
 # This file represents a page section.
 headless: true
@@ -22,11 +23,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD Candidate in Organisational Theory
+    company: Cambridge Judge Business School
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: United Kingdom
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
