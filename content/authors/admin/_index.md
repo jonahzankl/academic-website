@@ -72,4 +72,4 @@ highlight_name: true
 
 Jonah Zankl is a PhD Candidate in Organisational Theory at Cambridge Judge Business School. His research interests include understanding how society affects the entrepreneurial process and the ongoing maintenance of entrepreneurial ecosystems. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
