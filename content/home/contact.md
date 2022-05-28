@@ -32,7 +32,7 @@ content:
       name: Jonah Zankl
       link: 'https://twitter.com/jonahzankl'
       
-    - icon: LinkedIn
+    - icon: linkedin
       icon_pack: fab
       name: Jonah Zankl
       link: 'https://linkedin.com/in/jonahzankl'
