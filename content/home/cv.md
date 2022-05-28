@@ -1,3 +1,4 @@
+---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -18,5 +19,7 @@ subtitle:
 design:
   # Use a 1-column layout
   columns: "1"
-  
-  <iframe src="https://docs.google.com/document/d/e/2PACX-1vTRibC9BtIOzVenAueKuF8XIUOPmRe5VeOlerfOeuLieyGAACcImmIAlyZ-M_47_Pt0ickQa1voI39y/pub?embedded=true"></iframe>
+
+---
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTRibC9BtIOzVenAueKuF8XIUOPmRe5VeOlerfOeuLieyGAACcImmIAlyZ-M_47_Pt0ickQa1voI39y/pub?embedded=true"></iframe>
