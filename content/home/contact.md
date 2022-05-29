@@ -25,17 +25,7 @@ content:
     postcode: 'CB2 1AG'
     country: United Kingdom
     country_code: GB
-  
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Jonah Zankl
-      link: 'https://twitter.com/jonahzankl'
-      
-    - icon: linkedin
-      icon_pack: fab
-      name: Jonah Zankl
-      link: 'https://linkedin.com/in/jonahzankl'
+ 
    
 
 design:
